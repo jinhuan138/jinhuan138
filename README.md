@@ -12,7 +12,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-34495e?logo=GraphQL&logoColor=E0234E) 
 ![Apollo](https://img.shields.io/badge/-Apollo-white?logo=ApolloGraphQL&logoColor=311C87&link=https://www.apollographql.com/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/-VS Code-cornsilk?logo=VisualStudioCode&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-VSCode-cornsilk?logo=VisualStudioCode&logoColor=007ACC)
 ![Sass](https://img.shields.io/badge/-Sass-aqua?logoColor=CC6699&logo=Sass) 
 ![Electron](https://img.shields.io/badge/-Electron-2b2e3b?link=http://www.electronjs.org/docs/latest&logoColor=47848F&logo=Electron) 
 ![Douban](https://img.shields.io/badge/-Douban-edf4ec?logo=Douban&link=https://www.douban.com/&logoColor=007722) 
