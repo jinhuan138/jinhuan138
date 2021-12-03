@@ -8,8 +8,8 @@
 
 ---
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js&link=https://v3.cn.vuejs.org/) 
-![NestJs](https://img.shields.io/badge/-NestJs-black?logo=NestJS&logoColor=crimson) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-34495e?logo=GraphQL&logoColor=E0234E&link=[NestJS - A progressive Node.js framework](https://nestjs.com/)) 
+![NestJs](https://img.shields.io/badge/-NestJs-black?logo=NestJS&logoColor=crimson&link=https://nestjs.com/) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-34495e?logo=GraphQL&logoColor=E0234E) 
 ![Apollo](https://img.shields.io/badge/-Apollo-white?logo=Apollo GraphQL&logoColor=311C87&link=https://www.apollographql.com/) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/-VS Code-cornsilk?logo=Visual Studio Code&logoColor=007ACC)
